@@ -1,4 +1,4 @@
-[![PIMENTA](docs/header.svg)](https://izag8216.github.io/pimenta/)
+![PIMENTA](docs/header.svg)
 
 **[English](./README.md) | [日本語](./README.ja.md)**
 
@@ -7,7 +7,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](./LICENSE)
-[![Play Now](https://img.shields.io/badge/Play_Now-FF4444?style=for-the-badge&logo=googlechrome&logoColor=white)](https://izag8216.github.io/pimenta/)
+[![Play Now](https://img.shields.io/badge/Play_Now-FF4444?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/izag8216/pimenta/blob/main/index.html)
 
 チリペッパーのパイロットがフードインベーダーから空を守る、キュートなレトロ風縦スクロールシューティングゲーム（STG）。
 
@@ -68,7 +68,7 @@ git clone https://github.com/izag8216/pimenta.git
 open pimenta/index.html
 ```
 
-またはブラウザで直接プレイ: **[izag8216.github.io/pimenta](https://izag8216.github.io/pimenta/)**
+または`index.html`をダウンロードしてブラウザで開いてください。
 
 ## 技術スタック
 
